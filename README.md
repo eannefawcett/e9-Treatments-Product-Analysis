@@ -8,19 +8,19 @@ In Exposure Type 1, the two research items are pictured below in Figure 1. Resea
 
 In this exposure study, there was no statistical difference between the methods of use.
 
-<img src="images/stripped exposure 1.png" alt="exposure type 1 results" />
+<img src="stripped exposure 1.png" alt="exposure type 1 results" />
 Figure 1. Exposure Type 1 Results
 
 ## Exposure Type 2
 
 In Exposure Type 2, the research items are pictured below in Figure 2. Research Item 1 is purple and Research Item 3 is orange. In the figure, Research Item 1's peak is further to the right, and a higher value, than Research Item 3's peak. Again, in this exposure type, higher values are more desirable. So, Research Item 1 outperformed Research Item 3. This is again backed up with statistically different results, and a higher mean for Research Item 1.
 
-<img src="images/stripped exposure 2-1.png" alt="exposure type 2 results part 1" />
+<img src="stripped exposure 2-1.png" alt="exposure type 2 results part 1" />
 Figure 2. Exposure Type 2 Part 1 Results
 
 In this exposure study, the different methods of use are pictured below in Figure 3. Method 1 is in purple, and Method 2 is in orange. In this evaluation, Method 1 outperformed Method 2. This is shown by a slightly shifted to the right peak. This was affirmed by the two methods of use being statistically different from one another, and Method 1 having a higher mean. In this case, a higher value, which are to the right in the graph, are more desirable.
 
-<img src="images/stripped exposure 2-2.png" alt="exposure type 2 results part 2" />
+<img src="stripped exposure 2-2.png" alt="exposure type 2 results part 2" />
 Figure 3. Exposure Type 2 Part 2 Results
 
 ## Exposure Type 3
@@ -29,7 +29,7 @@ In Exposure Type 3, there was no statistical difference between Research Item 1 
 
 In this exposure study, the different methods of use are pictured below in Figure 4. Method 1 is in blue, and Method 2 is in orange. In this evaluation, higher values on the y axis are desirable, while the x axis shows the passage of time. Methods 1 and 2 are statistically different with Method 1 achieving a higher mean value. So, Method 1 outperforms Method 2.
 
-<img src="images/stripped exposure 3.png" alt="exposure type 3 results" />
+<img src="stripped exposure 3.png" alt="exposure type 3 results" />
 Figure 4. Exposure Type 3 Results
 
 ## Exposure Type 4
@@ -38,7 +38,7 @@ In Exposure Type 4, the different Research Items, 1 and 3, are pictured below in
 
 In this exposure study, there was no statistical difference between the methods of use, Method 1 and Method 2.
 
-<img src="images/stripped exposure 4.png" alt="exposure type 4 results" />
+<img src="stripped exposure 4.png" alt="exposure type 4 results" />
 Figure 5. Exposure Type 4 Results
 
 # Conclusions
